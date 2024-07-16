@@ -1,0 +1,5 @@
+How to implement that:
+1- first is to create parent div that have a 300 viewport hight
+2- inside the parent div, create a sticky div with top of 0px,
+3- since the parent div has a 300 viewport hight, so the sticky div will stick at top of 0px of 300vh
+4- we have to set the parent div as a target of our scroll event (my mistake is that I set the target to sticky div, so I run with some errors) 
