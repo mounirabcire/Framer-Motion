@@ -25,5 +25,5 @@ Discovering amazing parallax effect animations! 🌟.
 ## Demo 📸 
 
 ## Zoom Parallax 1
-[demo]([https://github.com/mounirabcire/page-transitions/assets/153240368/310095ab-0ad9-4d88-815a-8d9746a39343](https://github.com/user-attachments/assets/0b392b37-3835-4719-8701-04b74283c835)
+[demo](https://github.com/user-attachments/assets/0b392b37-3835-4719-8701-04b74283c835)
 
