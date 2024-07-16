@@ -1,4 +1,4 @@
-# Framer Motion Animations
+# Page Transitions
 
 ## About This Project 🚀
 Exploring various page transition animations! 🌟
