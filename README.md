@@ -8,7 +8,7 @@ Discovering amazing animations 🌟 with Framer Motion.
 - `Framer Motion`
 - `tailwindcss`
 
-## zoom parallax 1
+## Zoom Parallax 1
 ###  Process
 1.  I was inspired by a YouTube video showcasing a cool parallax effect.
 2.  Without seeing the code, I tried to create the animation on my own. It took me about two days, and I encountered many errors. In the end, my initial attempt was only about 65% similar to the original effect.
@@ -22,9 +22,17 @@ Discovering amazing animations 🌟 with Framer Motion.
 4. When the top of the parent element intersects with the top of the viewport, the zoom effect starts.
 5. Instead of scaling the images directly (which would mess up the layout), we scale the absolutely positioned element to maintain the layout as it is.
 
+## Mouse Effect
+### How it works
+1. We created two overlapping elements. 
+2. then applied a circular mask using the `mask-image` property to one of them. 
+3. Based on mouse movements, we dynamically updated the mask position. 
+4. When the masked element is hovered over, we increased the mask size. 🎨🖱️✨
 
 ## Demo 📸 
 
-## Zoom Parallax 1
+### Zoom Parallax 1
 [demo](https://github.com/user-attachments/assets/0b392b37-3835-4719-8701-04b74283c835)
 
+### Mouse Effect
+[demo](https://github.com/user-attachments/assets/cbfb4066-dbce-4ee3-92f0-701586024213)
