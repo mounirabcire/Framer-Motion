@@ -1,11 +1,12 @@
 # Parallax Effects
 
 ## About This Project 🚀
-Discovering amazing parallax effect animations! 🌟.
+Discovering amazing animations 🌟 with Framer Motion.
 
 ## Technologies 🛠️
 - `React`
 - `Framer Motion`
+- `tailwindcss`
 
 ## zoom parallax 1
 ###  Process
