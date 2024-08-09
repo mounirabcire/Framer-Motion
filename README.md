@@ -1,4 +1,4 @@
-# Parallax Effects
+# Framer Motion Animations
 
 ## About This Project 🚀
 Discovering amazing animations 🌟 with Framer Motion.
